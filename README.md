@@ -9,3 +9,4 @@ Skills:
 -Using git commands
 -Practicing git commit messages
 -HTML basics (structure, links and images)
+-HTML: ordered + unordered lists
